@@ -1,0 +1,6 @@
+package-as: CustomNames_BlizzardNameplates
+
+ignore:
+    - tests
+    - .claude
+    - embeds.xml
