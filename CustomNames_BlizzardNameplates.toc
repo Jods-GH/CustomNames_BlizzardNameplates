@@ -3,8 +3,8 @@
 ## Version: @project-version@
 ## Notes: Adds Blizzard Nameplates support for CustomNames
 ## Author: Jods
-## X-Curse-Project-ID: 
-## X-Wago-ID: 
+## X-Curse-Project-ID: 1802226
+## X-Wago-ID: XKqEb5Ky
 ## IconTexture: Interface\AddOns\CustomNames_BlizzardNameplates\Media\Logo.tga
 ## RequiredDeps: CustomNames
 ## OptionalDeps: ViragDevTool
